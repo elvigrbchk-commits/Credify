@@ -63,3 +63,13 @@ The test suite checks the contract's access control, credential registration, ve
 ## 8. Production Architecture Note
 
 This prototype uses Solidity and Hardhat on a local development blockchain. The proposed production architecture for Credify is based on Hyperledger Fabric. The prototype demonstrates core credential-management logic and does not represent a deployed Hyperledger Fabric network.
+
+## Demo Video
+
+The video demonstrates the Credify smart contract prototype, including:
+
+- Starting the local Hardhat blockchain network.
+- Deploying the CredentialRegistry smart contract using Hardhat Ignition.
+- Running the automated tests.
+
+**Watch the prototype demonstration:** https://youtu.be/4131YkVY4yk
